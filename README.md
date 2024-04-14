@@ -1,1 +1,1 @@
-# Aplicação de controle de conta bancária com linaguagem Java
+# Aplicação de controle de conta bancária com linguagem Java
